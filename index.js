@@ -1,4 +1,4 @@
-const { NlpManager } = require('node-nlp');
+const { NlpManager } = require('model-git');
 const fs = require('fs');
 const path = require('path');
 
